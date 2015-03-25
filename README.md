@@ -9,7 +9,7 @@ int main()
     cin>>a;
     cout<<"ingrese otro numero: ";
     cin>>b;
-    c=a+b;
+    c=2(a+b);
     cout<<c<<endl;
      return 0;
 }
